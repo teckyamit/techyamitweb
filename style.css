@@ -1,0 +1,27 @@
+#sem{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #f7f7f7;
+}
+table{
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+  
+}
+.noticebar{
+    padding-top: 30px;
+    display: block;
+    margin: auto;
+    height: 360px;
+    margin-top: 70PX;
+    width: 80%;
+    text-align: center;
+    background: aqua;
+    color:  BLACK;
+    border-radius: 20PX;
+}
+#notice{
+    text-transform:uppercase;
+}
